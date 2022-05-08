@@ -1,4 +1,4 @@
-package com.example.coinsmvvm.model.Coins
+package com.example.coinsmvvm.model.Coin
 
 
 import com.google.gson.annotations.SerializedName

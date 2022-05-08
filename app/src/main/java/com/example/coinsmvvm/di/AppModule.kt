@@ -1,7 +1,9 @@
 package com.example.coinsmvvm.di
 
 import com.example.coinsmvvm.network.ApiService
+import com.example.coinsmvvm.reposititory.Repository
 import com.example.coinsmvvm.utils.Constants
+import com.example.coinsmvvm.viewModels.CoinViewModel
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
@@ -22,5 +24,9 @@ object AppModule {
             .addConverterFactory(GsonConverterFactory.create())
             .build()
             .create(ApiService::class.java)
+
+    @Singleton
+    @Provides
+    fun proviceCoinViewModel(apiService: ApiService) = Repository(apiService)
 
 }

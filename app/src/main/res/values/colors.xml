@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="lightGray">#BCBCBC</color>
+
+    <color name="main">#C1124E</color>
+    <color name="main2">#CD4071</color>
+    <color name="main3">#FFA1C1</color>
+<!--    <color name="statusbar" >#6E6E6E</color>-->
+    <color name="statusbar" >#CD4071</color>
+    <color name="up">#13BC24</color>
+    <color name="down">#F82D2D</color>
 </resources>

@@ -3,7 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/activity_main.xml" value="0.23229166666666667" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/drawable-v24/item_search.xml" value="0.1975" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/drawable/ic_baseline_arrow_downward_24.xml" value="0.1655" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/drawable/item_background.xml" value="0.1975" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/activity_main2.xml" value="0.1765625" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/cardview_market.xml" value="0.4" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/cardview_top3.xml" value="0.4" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/fragment_coin_detail.xml" value="0.264" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/fragment_home.xml" value="0.264" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/fragment_market.xml" value="0.264" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/fragment_market2.xml" value="0.20521590423257802" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/layout/my_statusbar.xml" value="0.20521590423257802" />
+        <entry key="..\:/This/Android_project/CoinsMVVM/app/src/main/res/menu/menu.xml" value="0.10989583333333333" />
       </map>
     </option>
   </component>
